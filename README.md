@@ -1,9 +1,19 @@
 # 💫 About Me:
 ⚡ Currently Pursuing BE in Computer Engineering<br>🔭 I'm currently working on Java<br>👯 I’m looking to collaborate on Full Stack Java <br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about  Java, Python, HTML, SpringBoot, MySQL<br>
 
+## 🌐 Socials
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasaddayal)
+<p align="left">
+  <a href="https://twitter.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/prasaddayal">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/__prasad712__">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
