@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/prasaddayal">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/__prasad712__">
+  <a href="https://instagram.com/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 ---
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
 ---
 
@@ -44,9 +44,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrasadDayal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrasadDayal&icon=0&color=0)](https://visitcount.itsvg.in)
