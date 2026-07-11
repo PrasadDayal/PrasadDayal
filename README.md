@@ -1,51 +1,81 @@
-# 💫 About Me:
-⚡ Currently Pursuing BE in Computer Engineering<br>🔭 I'm currently working on Java<br>👯 I’m looking to collaborate on Full Stack Java <br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about  Java, Python, HTML, SpringBoot, MySQL<br>
+# Hi 👋 I'm Prasad Dayal
 
-## 🌐 Socials
+## 🚀 Fresher | Looking for an Opportunity
 
-<p align="left">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/prasaddayal">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=180&section=header&text=Prasad%20Dayal&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-# 💻 Tech Stack:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?lines=Java+Backend+Developer;Spring+Boot+Developer;React+Frontend+Developer;Always+Learning+New+Technologies&center=true&width=600"/>
+</p>
 
-### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to-Work-success"/>
+<img src="https://komarev.com/ghpvc/?username=PrasadDayal&color=1E293B"/>
+<img src="https://img.shields.io/github/followers/PrasadDayal?label=Followers"/>
+</p>
 
----
+## 👨‍💻 Who I Am
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+```ts
+const prasad = {
+  title: "Fresher | Looking for an Opportunity",
+  stack: ["Java","React","HTML","CSS","JavaScript"],
+  databases:["MySQL","PostgreSQL","MongoDB"],
+  hosting:["Render","Vercel","Netlify"],
+  tools:["VS Code","IntelliJ IDEA","Postman","Git","GitHub"],
+  launchedProjects:["StoreSync","KitchenIQ","ExpenseTracker"],
+  status:"Actively seeking Software Developer roles",
+  openTo:true
+}
+```
 
----
+## 📌 Featured Projects
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+### StoreSync
+Inventory Management System with Spring Boot, authentication, dashboards and demand prediction.
 
----
+Code: https://github.com/PrasadDayal
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+### KitchenIQ
+AI-inspired culinary decision engine with inventory and order management.
 
----
+Code: https://github.com/PrasadDayal
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+### ExpenseTracker
+Spring Boot backend for shared expense management.
 
----
+Code: https://github.com/PrasadDayal
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🛠️ Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=PrasadDayal&icon=0&color=0)](https://visitcount.itsvg.in)
+### Languages & Frontend
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react)](https://skillicons.dev)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Database & Hosting
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,vercel,netlify)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,idea)](https://skillicons.dev)
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=PrasadDayal&show_icons=true&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDayal&layout=compact&theme=nord)
+
+![](https://streak-stats.demolab.com?user=PrasadDayal&theme=nord)
+
+![](https://github-profile-trophy.vercel.app/?username=PrasadDayal&theme=nord&no-frame=true&no-bg=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadDayal&theme=nord)
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prasaddayal)
+
+📧 prasaddayal71234@gmail.com
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=120&section=footer"/>
+</p>
