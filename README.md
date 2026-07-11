@@ -1,81 +1,97 @@
-# Hi 👋 I'm Prasad Dayal
 
-## 🚀 Fresher | Looking for an Opportunity
+# 👋 Hi, I'm **Prasad Dayal**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=180&section=header&text=Prasad%20Dayal&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Prasad%20Dayal&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Java+Backend+Developer;Spring+Boot+Developer;React+Frontend+Developer;Always+Learning+New+Technologies&center=true&width=600"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Frontend+Developer;Open+to+Work;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Work-success"/>
-<img src="https://komarev.com/ghpvc/?username=PrasadDayal&color=1E293B"/>
-<img src="https://img.shields.io/github/followers/PrasadDayal?label=Followers"/>
+
+![OpenToWork](https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge)
+
 </p>
 
-## 👨‍💻 Who I Am
+---
 
-```ts
-const prasad = {
-  title: "Fresher | Looking for an Opportunity",
-  stack: ["Java","React","HTML","CSS","JavaScript"],
-  databases:["MySQL","PostgreSQL","MongoDB"],
-  hosting:["Render","Vercel","Netlify"],
-  tools:["VS Code","IntelliJ IDEA","Postman","Git","GitHub"],
-  launchedProjects:["StoreSync","KitchenIQ","ExpenseTracker"],
-  status:"Actively seeking Software Developer roles",
-  openTo:true
-}
-```
+# 🚀 Developer Dashboard
 
-## 📌 Featured Projects
+| 👤 | Information |
+|---|---|
+| **Role** | Fresher • Looking for an Opportunity |
+| **Focus** | Java, Spring Boot, REST APIs |
+| **Frontend** | React, HTML, CSS, JavaScript |
+| **Database** | MySQL, PostgreSQL, MongoDB |
+| **Hosting** | Render, Vercel, Netlify |
+| **Tools** | VS Code, IntelliJ IDEA, Git, GitHub, Postman |
 
-### StoreSync
-Inventory Management System with Spring Boot, authentication, dashboards and demand prediction.
+## 🛠 Tech Stack
 
-Code: https://github.com/PrasadDayal
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
 
-### KitchenIQ
-AI-inspired culinary decision engine with inventory and order management.
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-Code: https://github.com/PrasadDayal
-
-### ExpenseTracker
-Spring Boot backend for shared expense management.
-
-Code: https://github.com/PrasadDayal
-
-## 🛠️ Tech Stack
-
-### Languages & Frontend
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,react)](https://skillicons.dev)
-
-### Database & Hosting
+### Databases & Hosting
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,vercel,netlify)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,idea)](https://skillicons.dev)
 
-## 📈 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=PrasadDayal&show_icons=true&theme=nord)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDayal&layout=compact&theme=nord)
+# 📌 Featured Projects
 
-![](https://streak-stats.demolab.com?user=PrasadDayal&theme=nord)
+## 🏬 StoreSync
+Spring Boot Inventory Management System with authentication, dashboard insights and demand prediction.
 
-![](https://github-profile-trophy.vercel.app/?username=PrasadDayal&theme=nord&no-frame=true&no-bg=true)
+## 🍳 KitchenIQ
+AI-powered culinary decision engine for inventory, ordering and reducing food waste.
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadDayal&theme=nord)
+## 💰 ExpenseTracker
+Spring Boot backend for managing and splitting shared expenses.
 
-## 🤝 Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prasaddayal)
+# 📈 GitHub Analytics
 
-📧 prasaddayal71234@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=PrasadDayal&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDayal&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=PrasadDayal&theme=tokyonight)
+
+![](https://github-profile-trophy.vercel.app/?username=PrasadDayal&theme=tokyonight&no-bg=true&no-frame=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadDayal&theme=tokyo-night)
+
+---
+
+# 🎯 Current Focus
+
+- ✅ Building Spring Boot Projects
+- ✅ Learning Microservices
+- ✅ REST API Development
+- ✅ Full Stack Applications
+- ✅ Preparing for Software Developer roles
+
+---
+
+# 🤝 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/prasaddayal
+- 📧 Email: prasaddayal71234@gmail.com
+
+---
+
+> **"Code • Learn • Improve • Repeat."**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E293B,100:0F172A"/>
 </p>
