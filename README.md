@@ -76,10 +76,6 @@
 
 # 📌 Featured Projects
 
-### 🏥 AI Powered Hospital Management System
-- Spring Boot, React, MySQL, Gemini AI
-- Patients, Doctors, Billing, Pharmacy, Lab, AI Chatbot
-
 ### 🏞️ MahaTourism
 - AI Trip Planner for Maharashtra
 - Spring Boot, React, Gemini AI
