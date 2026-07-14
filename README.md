@@ -91,7 +91,8 @@
 ### 🚗 Ride Sharing Platform *(In Progress)*
 - FastAPI, PostgreSQL, React
 
-### 🏪 StoreSync
+### 🏪 StoreSync 
+- Spring Boot. React, MySQL
 - Inventory Management using Spring Boot
 
 ---
