@@ -1,61 +1,98 @@
-
 # 👋 Hi, I'm **Prasad Dayal**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Prasad%20Dayal&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Frontend+Developer;Open+to+Work;Always+Learning+New+Technologies"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Prasad%20Dayal&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Full%20Stack&descAlignY=55"/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;React+Developer;FastAPI+Learner;Open+to+Work"/>
 
-![OpenToWork](https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge)
+<br>
 
-</p>
+![](https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge)
+![](https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk)
+![](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot)
+
+</div>
 
 ---
 
 # 🚀 Developer Dashboard
 
-| 👤 | Information |
-|---|---|
-| **Role** | Fresher • Looking for an Opportunity |
-| **Focus** | Java, Spring Boot, REST APIs |
-| **Frontend** | React, HTML, CSS, JavaScript |
-| **Database** | MySQL, PostgreSQL, MongoDB |
-| **Hosting** | Render, Vercel, Netlify |
-| **Tools** | VS Code, IntelliJ IDEA, Git, GitHub, Postman |
+| 👨‍💻 | Information |
+|------|-------------|
+| Role | Java Backend Developer • Full Stack Developer |
+| Status | 🚀 Open to Full-Time Opportunities |
+| Focus | Spring Boot • React • FastAPI • REST APIs |
+| Databases | MySQL • PostgreSQL • MongoDB |
+| Learning | Microservices • Docker • Kubernetes |
 
-## 🛠 Tech Stack
+---
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+# 🛠 Tech Stack
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+## 💻 Languages
 
-### Databases & Hosting
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,vercel,netlify)](https://skillicons.dev)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+</p>
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,idea)](https://skillicons.dev)
+## ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi,maven"/>
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify"/>
+</p>
+
+## 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea"/>
+</p>
+
+## 🤖 AI
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48"/>
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-## 🏬 StoreSync
-Spring Boot Inventory Management System with authentication, dashboard insights and demand prediction.
+### 🏥 AI Powered Hospital Management System
+- Spring Boot, React, MySQL, Gemini AI
+- Patients, Doctors, Billing, Pharmacy, Lab, AI Chatbot
 
-## 🍳 KitchenIQ
-AI-powered culinary decision engine for inventory, ordering and reducing food waste.
+### 🏞️ MahaTourism
+- AI Trip Planner for Maharashtra
+- Spring Boot, React, Gemini AI
 
-## 💰 ExpenseTracker
-Spring Boot backend for managing and splitting shared expenses.
+### 📚 AI Research Paper Publication Platform *(In Progress)*
+- FastAPI, PostgreSQL, React
+- AI Summaries, ORCID, Semantic Search
+
+### 🚗 Ride Sharing Platform *(In Progress)*
+- FastAPI, PostgreSQL, React
+
+### 🏪 StoreSync
+- Inventory Management using Spring Boot
 
 ---
 
@@ -63,35 +100,21 @@ Spring Boot backend for managing and splitting shared expenses.
 
 ![](https://github-readme-stats.vercel.app/api?username=PrasadDayal&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadDayal&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=PrasadDayal&theme=tokyonight)
-
-![](https://github-profile-trophy.vercel.app/?username=PrasadDayal&theme=tokyonight&no-bg=true&no-frame=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrasadDayal&theme=tokyonight)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=PrasadDayal&theme=tokyo-night)
 
----
-
-# 🎯 Current Focus
-
-- ✅ Building Spring Boot Projects
-- ✅ Learning Microservices
-- ✅ REST API Development
-- ✅ Full Stack Applications
-- ✅ Preparing for Software Developer roles
+![](https://github-profile-trophy.vercel.app/?username=PrasadDayal&theme=tokyonight&no-frame=true)
 
 ---
 
 # 🤝 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/prasaddayal
-- 📧 Email: prasaddayal71234@gmail.com
+- LinkedIn: https://www.linkedin.com/in/prasaddayal
+- Email: prasaddayal71234@gmail.com
 
----
-
-> **"Code • Learn • Improve • Repeat."**
+> **Code • Learn • Improve • Repeat**
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E293B,100:0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,100:4F46E5"/>
 </p>
